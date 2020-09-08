@@ -4,6 +4,7 @@ public class MainTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		//0907_1
 		/*
 		 * for (int i = 0; i < args.length; i++) { System.out.println(args[i]); }
@@ -128,9 +129,18 @@ public class MainTest {
 				sum+=sc;
 				System.out.println(sum);
 			}
-			double av=(double)sum/sc1.length;
-			System.out.println(av);
-			
+			double av1=(double)sum/sc1.length;
+			System.out.println(av1);
+			//////////////////////////////////////////
+			//09-08
+			int []arr3= {1,5,3,8,2,};
+			int max=arr3[0];
+			for (int i = 0; i < (arr3.length)+1; i++) {
+				if(arr3[i]>max) {
+					max=arr3[i];
+				}
+			}
+			System.out.println(max);
 			
 	}
 }
