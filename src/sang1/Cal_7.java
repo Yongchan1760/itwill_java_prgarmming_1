@@ -6,6 +6,7 @@ public class Cal_7 {
 		// TODO Auto-generated method stub
 		Cal_6 a=new Cal_6();
 		a.execute();
+		System.out.println();
 	}
 
 }
