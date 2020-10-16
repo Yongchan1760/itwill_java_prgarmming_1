@@ -5,9 +5,9 @@ public class Balance {
 	int withdraw;
 	int deposit;
 
-   void ();
-  void withdraw();
-  void deposit(); 
+   //void ();
+  //void withdraw();
+ // void deposit(); 
 }
  
 
