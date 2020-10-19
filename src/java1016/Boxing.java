@@ -9,6 +9,6 @@ public class Boxing {
 		System.out.println(obj1==obj2);
 		System.out.println("¾ð¹Ú½Ì");
 		System.out.println(obj1.intValue()==obj2.intValue());
-	}
-
+	}	
+		
 }
